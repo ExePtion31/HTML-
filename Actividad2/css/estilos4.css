@@ -1,0 +1,137 @@
+body{
+  background-image: url(../fondo1.jpg);
+  background-size: cover;
+}
+
+
+.contenedor_main{
+  position: relative;
+  top: 200px;
+  left: 35%;
+  background-color: #fff;
+  opacity: 0.6;
+  width: 500px;
+  height: 500px;
+}
+
+hr{
+  margin-top: 60px;
+  color: #808080;
+}
+
+.contenedor_1{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  top: 10px;
+  left: 10px;
+  opacity: 2;
+  background-color: #fbff00;
+  width: 230px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.contenedor_2{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  top: 10px;
+  left: 20px;
+  opacity: 2;
+  background-color: #fbff00;
+  width: 230px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.contenedor_3{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  top: 20px;
+  left: 10px;
+  opacity: 2;
+  background-color: #fbff00;
+  width: 230px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.contenedor_4{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  top: 20px;
+  left: 20px;
+  opacity: 2;
+  background-color: #fbff00;
+  width: 230px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.contenedor_5{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  top: 30px;
+  left: 10px;
+  opacity: 2;
+  background-color: #fbff00;
+  width: 230px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.contenedor_6{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  top: 30px;
+  left: 20px;
+  opacity: 2;
+  background-color: #fbff00;
+  width: 230px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.contenedor_7{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  top: 40px;
+  left: 10px;
+  opacity: 2;
+  background-color: #fbff00;
+  width: 230px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.contenedor_8{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  top: 40px;
+  left: 20px;
+  opacity: 2;
+  background-color: #fbff00;
+  width: 230px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.contenedor_9{
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  top: 40px;
+  left: 10px;
+  opacity: 2;
+  background-color: #fbff00;
+  width: 480px;
+  height: 30px;
+  font-size: 20px;
+}

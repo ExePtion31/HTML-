@@ -1,0 +1,56 @@
+li{
+  display: inline-block;
+  background: #0e26d7;
+  width: 200px;
+  text-align: center;
+  margin: 3px 0.04px;
+  padding: 20px;
+  border: 2px solid #000;
+  font-size: 20px;
+  font-family: cursive;
+  color: #ffffff;
+  position: relative;
+  left: 100px;
+  top: 70px;
+}
+
+h2{
+  text-align: center;
+  color: #8e0ed7;
+}
+.Parte_sup{
+  background:url(../banner.jpg) no-repeat center top;
+  padding: 50px;
+}
+
+li a{
+  color: white;
+}
+
+.articulo1{
+  background:red;
+  display:inline-block;
+  width: 50%;
+  position: relative;
+  left: 2%;
+}
+
+aside{
+  background: blue;
+  width: 30%;
+  position: relative;
+  left: 70%;
+}
+
+.Contenedor{
+  display: inline-block;
+  position: relative;
+
+}
+
+.sistemaS{
+  width: 550px;
+  border: 3px solid #000;
+  position: relative;
+  left: 8%;
+}

@@ -1,0 +1,15 @@
+body{
+  background-image: url(../fondo4.jpg);
+  background-size: cover;
+}
+
+li{
+  font-size: 20px;
+  font-family: fantasy;
+  color: #9412B8;
+}
+
+div{
+  border: 2px;
+  border-color: #fff;
+}

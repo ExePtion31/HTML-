@@ -1,0 +1,33 @@
+body{
+  background:#eaeaea; /* Color de fondo */
+
+}
+
+h1,h2 {
+  color:rgba(14, 38, 215, 1); /* Ultimo valor es la opacidad del color*/
+}
+
+h1{
+  font-size: 60;
+  font-family:;
+  text-align: center;
+
+}
+
+p b{
+  font-style: italic;
+  color: red;
+  font-size: 15;
+}
+
+.VL{
+  font-size: 15;
+  color: green;
+  font-style: normal;
+}
+
+.JUP{
+  font-size: 15;
+  color: brown;
+  font-family: sans-serif;
+}
